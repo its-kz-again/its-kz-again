@@ -1,7 +1,7 @@
 # Welcome to my personal github account
 
 
-<img src="/images/pl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="images/pl.jpg" alt="PL" width="500" height="600">
 
 ## Who am I?
 I am a student of amirkabir university (polytechnic).
